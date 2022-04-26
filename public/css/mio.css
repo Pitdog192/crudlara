@@ -1,0 +1,15 @@
+body{margin: 0;padding: 0;}
+
+.form-control {margin: 5px;}
+
+h1 {text-align: center; color: white;}
+
+.btn {margin: 2px;}
+
+input {width: 75%;}
+
+input::placeholder{text-align: center;font-size: 17px;}
+
+td {font-size: .9rem;}
+
+table {text-align: center;}
